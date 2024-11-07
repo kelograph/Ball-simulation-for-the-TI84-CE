@@ -7,6 +7,8 @@ If you are using a shell, the hex code at line 2 will show a icon :)
 This code is open source, feel free to use it!
 
 DOWNLOAD INSTRUCTIONS:
-unzip BALLSIM.zip
-Put BALL.8xp on your calculator using TI Connect CE
-run the program on your calculator!
+1) unzip BALLSIM.zip
+
+2) Put BALL.8xp on your calculator using TI Connect CE
+ 
+3) run the program on your calculator!
